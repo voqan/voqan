@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @voqan
-- 👀 I’m interested in OSINT, Python, Automation and generally software development.
+- 👀 I’m interested in Python development, Web scraping, OSINT, Automation and generally software engineering.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me ... https://www.linkedin.com/in/braico-m-a5a96590/
 
